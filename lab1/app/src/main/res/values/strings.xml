@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="BotonAplastameWink">Aplastame ;)</string>
+    <string name="textView1">Holi Canoli!!! Actividad 1 :P</string>
+    <string name="BotonBack">Back ;)</string>
+    <string name="textView2">Holi Actividad 2!!! :3</string>
+    <string name="BotonSubmit">Submit ;)</string>
+    <string name="write">Escribe algo :P</string>
+</resources>
